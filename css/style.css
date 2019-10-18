@@ -18,13 +18,14 @@ body {
 	max-height: 1024px;
 }
 	
-audio {
+audio{
 	max-width: 300px;
 	max-height: 30px;
 	vertical-align: middle;
 }
 
 #container {
+	margin-top:50%; 
 	width: 100%;
 	height: inherit;
 	max-height: 100%;
