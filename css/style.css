@@ -17,7 +17,14 @@ body {
 	min-height: 720px;
 	max-height: 1024px;
 }
-	
+
+marquee{
+	font-size: 50px;
+	color: #005599;
+	position: fixed;
+	left: 300px;
+	top: 0px;
+}	
 audio{
 	max-width: 300px;
 	max-height: 30px;
@@ -306,7 +313,8 @@ audio{
 }
 
 .author button {
-	background-color: #f5f5f5;
+	background-color: #005599;
+	color: #fff;
 	height: 28px;
 	padding-left: 10px;
 	padding-right: 10px;
