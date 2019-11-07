@@ -1,8 +1,5 @@
 
-/**
- * Quyết Nguyễn (Quyetdaik)
- * https://fb.com/nhquyet
- */
+
 
 body {
 	background-image: url(bg/1.jpg);
@@ -45,7 +42,10 @@ audio{
 	-webkit-transition: -webkit-transform 2s;
 	-webkit-transform-style: preserve-3d;
 }
-
+image{
+	width: auto;
+	height: auto;
+}
 #shape {
 	position: relative;
 	top: 260px;
